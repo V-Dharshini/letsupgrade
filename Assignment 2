@@ -1,0 +1,37 @@
+<!DOCTYPE   html>
+<html>
+<head>
+<title>student details</title>
+</head>
+<body>
+<table border="1">
+<thead>
+   <tr>
+      <th>S.no</th>
+      <th>Reg.no</th>
+     <th>Name</th>
+      <th>Roll.no</th>
+      <th>Age</th>
+      <th>Department</th>
+   </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>1.</td>
+    <td>19uca1854</td>
+    <td>Dharshini.V</td>
+    <td>54</td>
+    <td>20</td>
+    <td>BCA</td>
+  </tr>
+  <tr>
+      <td>2.</td>
+      <td>19uca1866</td>
+     <td>Hema.k</td>
+      <td>66</td>
+      <td>21</td>
+       <td>CS</td>
+   </tr>
+</tbody>
+</body>
+</html>
