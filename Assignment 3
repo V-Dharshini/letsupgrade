@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <title>Registration Form</title>
+ </head>
+ <body>
+  <form>
+    <input type="text" placeholder="Enter name"/>
+    <input type="email" placeholder="Enter mail"/>
+    <input type ="password" placeholder="Enter password" maxlength="8"/>
+    <input type="text" placeholder="Enter user name"/>
+    <button type="submit">Register</button>
+    <button type="clear">Reset</button>
+  </form>
+ </body>
+</html>
